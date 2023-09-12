@@ -4,16 +4,15 @@
  */
 package com.mycompany.casosprueba;
 
-/**
- *
- * @author joseg
- */
+
 public class CCuenta {
     // Propiedades de la Clase Cuenta
     private String nombre;
     private String cuenta;
     private double saldo;
     private double tipoInteres;
+    
+    //Hola como estas    
 
     /* Constructor sin argumentos */
     public CCuenta() {
